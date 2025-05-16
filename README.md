@@ -1,4 +1,4 @@
-# ------------------------------Practicas-POO--------------------------------
+# ----------------------------Practicas-POO------------------------------
 este es el acumulado de practicas que he recuperado
 de mi materia programacion orientada a objetos,
 estas practicas y proyectos son ejecutados
